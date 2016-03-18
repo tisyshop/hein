@@ -1,3 +1,6 @@
 [submodule "hein_client"]
 	path = hein_client
 	url = https://github.com/tisyshop/hein_client.git
+[submodule "hein_server"]
+	path = hein_server
+	url = https://github.com/tisyshop/hein_server.git
